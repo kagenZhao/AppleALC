@@ -7496,6 +7496,30 @@
 					<key>AFGLowPowerState</key>
 					<data>AwAAAA==</data>
 					<key>Codec</key>
+					<string>Mirone - Realtek ALC888-VD</string>
+					<key>CodecID</key>
+					<integer>283904136</integer>
+					<key>ConfigData</key>
+					<data>
+					AScc8AEnHQABJx4AAScfQAFHHBABRx1AAUce
+					EQFHH5EBRwwCAWcc8AFnHQABZx4AAWcfQAF3
+					HPABdx0AAXceAAF3H0ABtxwwAbcdEAG3HiEB
+					tx8CAbcMAgHXHPAB1x0AAdceAAHXH0ABFxww
+					ARcdEQEXHkYBFx+RAecc8AHnHQAB5x4AAecf
+					QAGHHGABhx2QAYceoQGHH4EBpxxQAacdMAGn
+					HoEBpx8BAZccYAGXHZABlx6hAZcfAgFXHPAB
+					Vx0AAVceAAFXH0ABxxzwAccdAAHHHgABxx9A
+					Afcc8AH3HQAB9x4AAfcfQA==
+					</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>6</integer>
+				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<data>AwAAAA==</data>
+					<key>Codec</key>
 					<string>Mirone - Realtek ALC888 5/6 ports (Gray, Black, Orange, Pink, Green, Blue)</string>
 					<key>CodecID</key>
 					<integer>283904136</integer>
